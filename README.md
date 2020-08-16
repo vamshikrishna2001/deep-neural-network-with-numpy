@@ -5,4 +5,4 @@ The this classifier model is evaluated with titanic dataset(preprossed).
 As the dataset is biased you can't find the difference in performance of Deep layered model
 use it for other unbaised dataset or image dataset you can surely see deeplayered neural network performing well over logistic regression
 you can use it as regressor also by changing the last layer to linear
-BE VERY CONSIOUS WITH HYPER PARAMETERS
+feel free to tune hyper parameters like learning rate(lr),regularization parameter(lambd)
